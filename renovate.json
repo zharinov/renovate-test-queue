@@ -1,1 +1,8 @@
-{}
+{
+  "hostRules": [
+    {
+      "domainName": "repo.maven.apache.org",
+      "concurrentRequestLimit": 2
+    }
+  ]
+}
